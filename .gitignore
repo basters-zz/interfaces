@@ -1,0 +1,25 @@
+*.meta
+*.unity
+*.asset
+*.csproj
+*.sln
+*.userprefs
+Assets/Animations/
+Assets/Brick Ground/
+Assets/Editor/
+Assets/Ground textures pack/
+Assets/Objects/
+Assets/Players/
+Assets/Terrain Assets/
+Assets/Wooden floor/
+Assets/Standard Assets/CrossPlatformInput/
+Assets/Standard Assets/ParticleSystems/
+Assets/Standard Assets/Utility/
+Assets/Standard Assets/Effects/
+Assets/Materials/
+Assets/Images/
+Assets/Animations/
+Library/
+Packages/
+ProjectSettings/
+Temp/
