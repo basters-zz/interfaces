@@ -4,6 +4,8 @@
 *.csproj
 *.sln
 *.userprefs
+*.png
+*.img
 Assets/Animations/
 Assets/Brick Ground/
 Assets/Editor/
@@ -23,3 +25,12 @@ Library/
 Packages/
 ProjectSettings/
 Temp/
+Assets/GradientGUIBars/
+Assets/LeaderBoard/
+Assets/Particles/
+Assets/Sky FX Pack/
+Assets/Terrain sand.prefab
+Assets/Terrain.prefab
+Assets/Textures/
+DevBuilds/
+
